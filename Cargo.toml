@@ -1,0 +1,9 @@
+[package]
+name = "gotta"
+version = "0.1.0"
+authors = ["konojunya <junya03dance@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3.0"
+image = "0.10.0"
